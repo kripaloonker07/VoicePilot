@@ -1,5 +1,5 @@
  **VOXCONTROL**
- Control Appliances/Devices through Voice
+ Control Appliances/Devices through Voice -
  This project showcases a voice-controlled home automation system using the ESP32 microcontroller and the DFRobot Gravity Voice Recognition Module. 
  The system allows users to control multiple devices (like lights, fans, or appliances) using custom voice commands without relying on internet-based assistants like Alexa or Google Assistant.
 
